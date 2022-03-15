@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <item
+        android:id="@+id/github"
+        android:title="@string/github"
+        android:icon="@drawable/ic_bxl_github"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/website"
+        android:title="@string/website"
+        android:icon="@drawable/ic_bx_world"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/historique"
+        android:title="@string/historique"
+        android:icon="@drawable/ic_bx_history"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/quitter"
+        android:title="@string/quit"
+        android:icon="@drawable/ic_bx_exit"
+        app:showAsAction="never" />
+</menu>

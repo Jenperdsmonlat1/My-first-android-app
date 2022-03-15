@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Solver</string>
+    <string name="github">Github</string>
+    <string name="website">Website</string>
+    <string name="entiera">Entier A</string>
+    <string name="entierb">Entier B</string>
+    <string name="entierc">Entier C</string>
+    <string name="valider">Valider</string>
+    <string name="historique">Historique</string>
+    <string name="quit">Quitter</string>
+    <string name="settings">Paramètres</string>
+    <string name="menu">Options de l\'application</string>
+    <string name="equation">Équation</string>
+    <string name="sol1">Solution 1</string>
+    <string name="sol2">Solution 2</string>
+</resources>
